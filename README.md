@@ -1,2 +1,2 @@
-# EquationLab
-Advanced Web-based Security Training Lab.
+## About
+EquationLab is Advanced Web-based Security Training Lab.
